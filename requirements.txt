@@ -1,0 +1,13 @@
+fastapi[standard]
+
+
+# data validation
+pydantic
+pydantic-settings
+
+
+# mail
+sendgrid
+
+#templating
+jinja2
